@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": { "first": "FIXMA", "second": "MEDIA" },
+    "image": "/img/portfolio/full/1.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 2,
+    "title": { "first": "DIGITAL", "second": "MARKETING" },
+    "image": "/img/portfolio/full/4.jpg",
+    "sub": "Design"
+  },
+  {
+    "id": 3,
+    "title": { "first": "PRODUCTION", "second": "HOUSE" },
+    "image": "/img/portfolio/full/productionhousse.jpeg",
+    "sub": "Design"
+  },
+  {
+    "id": 4,
+    "title": { "first": "STRATEGIC", "second": "CONSULTANT" },
+    "image": "/img/portfolio/full/5.png",
+    "sub": "Design"
+  }
+]

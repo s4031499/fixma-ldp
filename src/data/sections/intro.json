@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "FIXMA AGENCY",
+      "second": ""
+    },
+    "content": "Chúng tôi sẽ làm việc với sự LINH HOẠT - ĐỔI MỚI để tạo nên những chiến lược XUẤT SẮC",
+    "image": "/img/slid/01.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Dịch vụ",
+      "second": "của chúng tôi"
+    },
+    "content": "Giải pháp Marketing toàn diện cho mọi vấn đề của bạn",
+    "image": "/img/slid/31958.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Hành trình",
+      "second": "tự hào"
+    },
+    "content": "300+ chiến dịch quảng cáo cho nhiều thương hiệu & chiến dịch truyền thông khác nhau30+ sự kiện quy mô trung bình >1000 người",
+    "image": "/img/slid/7.jpeg"
+  }
+]

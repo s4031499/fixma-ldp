@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Tư Vấn Chiến Lược & Lập Kế Hoạch Truyền Thông",
+    "secTex": "",
+    "image": "/img/portfolio/metro/3.png",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 2,
+    "title": "Giải pháp Digital Marketing",
+    "secTex": "",
+    "image": "/img/portfolio/metro/2.png",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 3,
+    "title": "Sản Xuất Sáng Tạo",
+    "secTex": "",
+    "image": "/img/portfolio/metro/4.png",
+    "slug": "/project-details2/project-details2-dark"
+  },
+  {
+    "id": 4,
+    "title": "Giải pháp Ứng Dụng",
+    "secTex": "",
+    "image": "/img/portfolio/metro/5.png",
+    "slug": "/project-details2/project-details2-dark"
+  }
+]

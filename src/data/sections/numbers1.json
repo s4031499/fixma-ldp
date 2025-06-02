@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-smile",
+    "txt": "Quy mô lớn nhỏ trải dài khắp cả nước.",
+    "unit": "dự án",
+    "value": "80"
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-portfolio",
+    "txt": "Trong nhiều lĩnh vực đa dạng: bất động sản, vận tải, di trú, FnB, FMCG,...",
+    "unit": "đối tác chiến lược",
+    "value": "50"
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-cloud-download",
+    "txt": "Ấn phẩm truyền thông, tài liệu bán hàng, Website, phim quảng cáo,...",
+    "unit": "ấn phẩm quảng cáo",
+    "value": "800"
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-medal",
+    "txt": "Cho nhiều thương hiệu & chiến dịch truyền thông khác nhau",
+    "unit": "chiến dịch quảng cáo",
+    "value": "300"
+  }
+]

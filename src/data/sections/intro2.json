@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "FIXMA",
+      "second": "AGENCY"
+    },
+    "content": "Chúng tôi sẽ chiến đấu với một tinh thần BỀN BỈ - SÁNG TẠO - DẪN ĐẦU.",
+    "image": "/img/slid/01.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Digital",
+      "second": "Design Awards"
+    },
+    "image": "/img/slid/03.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Original",
+      "second": "Solutions"
+    },
+    "image": "/img/slid/02.jpg"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "/img/team/team2.png",
+    "name": "Trần Đức Nghĩa",
+    "title": "Founder"
+  },
+    {
+    "id": 2,
+    "image": "/img/team/4.png",
+    "name": "Dương Thùy Linh",
+    "title": "Genaral Director"
+  },
+  {
+    "id": 3,
+    "image": "/img/team/team3.jpeg",
+    "name": "Nguyễn Tuấn Đức",
+    "title": "Co-Founder"
+  },
+  {
+    "id": 4,
+    "image": "/img/team/2.png",
+    "name": "Lan Nguyễn",
+    "title": "Projects Leader"
+  },
+  {
+    "id": 5,
+    "image": "/img/team/3.png",
+    "name": "Minh Tris",
+    "title": "Media Manager"
+  }
+]

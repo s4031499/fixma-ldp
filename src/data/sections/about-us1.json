@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "image1": "/img/intro/2.png",
+  "image2": "/img/intro/1.png",
+  "image3": "/img/intro/3.jpeg",
+  "smallTitle": "About Us",
+  "title": {
+    "first": "Fixma Agency ",
+    "second": "Hơn cả một Agency Marketing"
+  },
+  "content": "Fixma Agency là đơn vị tiên phong dẫn đầu trong lĩnh vực marketing, chuyên cung cấp các giải pháp toàn diện về Truyền thông - Quảng cáo sáng tạo - Tư vấn Chiến lược - Định vị thương hiệu - Tổ chức sự kiện.",
+  "features": [
+    {
+      "id": 1,
+      "icon": "gleam",
+      "name": { "first": "Tối giản", "second": "chi phí" },
+      "wowDelay": ".3s"
+    },
+    {
+      "id": 2,
+      "icon": "paint-bucket",
+      "name": { "first": "Tối ưu hóa", "second": "hiệu quả" },
+      "wowDelay": ".5s"
+    },
+    {
+      "id": 3,
+      "icon": "medal",
+      "name": { "first": "Tối đa", "second": "hiệu suất" },
+      "wowDelay": ".8s"
+    }
+  ]
+}
