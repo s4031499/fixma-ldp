@@ -81,7 +81,7 @@ const WorksThreeColumnWithFilter = ({ filterPosition }) => {
 
           <div className="gallery full-width">
             {posts.slice(0, visiblePosts).map((post, index) => {
-              const categorySlugs = post.post_categories
+              const categorySlugs = (post.post_categories || [])
                 .map((category) => category.slug)
                 .join(" ");
               const additionalClass = index === 0 || index === 2 ? "lg-mr" : "";
@@ -92,23 +92,20 @@ const WorksThreeColumnWithFilter = ({ filterPosition }) => {
                 >
                   <div className="item-img wow fadeInUp" data-wow-delay=".4s">
                     <Link href={`/works2/${post.slug}`}>
-                      {/* <Link href="#"> */}
-                      {/* <a onClick={(e) => e.preventDefault()}> */}
                       <a>
-                        <img src={post.featured_image_src} alt="image" />
+                        <img src={post.featured_media_src_url} alt="image" />
                       </a>
                     </Link>
                   </div>
                   <div className="cont">
                     <h6>{post.title.rendered}</h6>
                     <span>
-                      {post.post_tags.map((tags, index) => (
+                      {(post.post_tags || []).map((tags, index) => (
                         <React.Fragment key={tags.id}>
                           {index > 0 && ", "}
                           <a href={`#0`}>{tags.name}</a>
                         </React.Fragment>
                       ))}
-                      {/* <a href="#0">Design</a>, <a href="#0">WordPress</a> */}
                     </span>
                   </div>
                 </div>

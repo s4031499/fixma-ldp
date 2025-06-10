@@ -259,7 +259,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
               <div className="cont-info">
                 <div className="item">
                   <h6>Phone :</h6>
-                  <p> (+84)97 637 7761</p>
+                  <p> (+84)65 895 968</p>
                 </div>
                 <div className="item">
                   <h6>Address :</h6>

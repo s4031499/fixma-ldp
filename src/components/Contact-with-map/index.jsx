@@ -104,7 +104,7 @@ const ContactWithMap = () => {
                   <h5>
                     <a href="#0">info@fixma.vn</a>
                   </h5>
-                  <h5> (+84)97 637 7761</h5>
+                  <h5> (+84)65 895 968</h5>
                 </div>
                 <h3 className="custom-font wow" data-splitting>
                   Visit Us.

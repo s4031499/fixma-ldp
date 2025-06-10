@@ -27,8 +27,10 @@ const ProjectDetails2Light = () => {
       const posts = await response.json();
       if (posts.length > 0) {
         setPost(posts[0]); // Lấy bài viết đầu tiên từ mảng trả về
-        fetchBannerImage(posts[0].acf.banner_projects);
-        if (posts[0].acf.gallery_image) {
+        if (posts[0].acf && posts[0].acf.banner_projects) {
+          fetchBannerImage(posts[0].acf.banner_projects);
+        }
+        if (posts[0].acf && posts[0].acf.gallery_image) {
           fetchGalleryImages(posts[0].acf.gallery_image); // Giả sử 'gallery_images' là trường chứa ID của gallery trong ACF
         }
       }
