@@ -6,10 +6,10 @@ import LightTheme from "../../layouts/Light";
 
 const Contact = () => {
   const fixedHeader = React.useRef(null);
-    const MainContent = React.useRef(null);
-    const navbarRef = React.useRef(null);
+  const MainContent = React.useRef(null);
+  const navbarRef = React.useRef(null);
   React.useEffect(() => {
-    document.querySelector('body').classList.add('menubarblack');
+    document.querySelector("body").classList.add("menubarblack");
     setInterval(() => {
       if (fixedHeader.current) {
         var slidHeight = fixedHeader.current.offsetHeight;
