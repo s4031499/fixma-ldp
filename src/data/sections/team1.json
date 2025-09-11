@@ -9,18 +9,18 @@
     "id": 2,
     "image": "/img/team/4.png",
     "name": "Dương Thùy Linh",
-    "title": "Genaral Director"
+    "title": "Founder"
   },
   {
     "id": 3,
-    "image": "/img/team/team3.jpeg",
-    "name": "Nguyễn Tuấn Đức",
-    "title": "Co-Founder"
+    "image": "/img/team/2.png",
+    "name": "Linh Triệu",
+    "title": "General Director"
   },
   {
     "id": 4,
-    "image": "/img/team/2.png",
-    "name": "Linh Triệu",
+    "image": "/img/team/team3.jpeg",
+    "name": "Nguyễn Tuấn Đức",
     "title": "Projects Leader"
   }
 ]
