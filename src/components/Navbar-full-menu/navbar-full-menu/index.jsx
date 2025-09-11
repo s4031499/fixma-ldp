@@ -268,7 +268,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
                 <div className="item">
                   <h6>Email :</h6>
                   <p>
-                    <Link href="#0"> info@arnismedia.vn</Link>
+                    <Link href="#0"> info@fixma.vn</Link>
                   </p>
                 </div>
               </div>
