@@ -34,7 +34,7 @@ const Footer = () => {
                     <span>Address : </span> 25 Lê Đại Hành, Hai Bà Trưng, Hà Nội
                   </li>
                   <li>
-                    <span>Phone : </span> (+84)65 895 968
+                    <span>Phone : </span> (+84)965 895 968
                   </li>
                 </ul>
               </div>
